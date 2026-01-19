@@ -59,3 +59,48 @@ I configured Teams → Navigated to Admin Panel → Agents → Teams → Created
 <p> This is to ensure tickets are accessible only to the appropriate team.
 </p>
 <br />
+<p>
+<img width="727" height="487" alt="image" src="https://github.com/user-attachments/assets/9ba9a697-9041-4ea8-9c3e-d2cb557025e0" />
+</p>
+<p>
+Then I configured User Registration Settings (Ticket Access Control) → Navigated to Admin Panel → Settings → User Settings → Unchecked "Unregistered users can create tickets" → Require registration/login to create tickets. <p> This is so that anyone visiting the end user URL can create a ticket.
+</p>
+<br />
+
+<p>
+<img width="886" height="291" alt="image" src="https://github.com/user-attachments/assets/d978bb2f-a0e9-4f92-aa12-91b25e8169eb" />
+</p>
+<p>
+I added agent accounts to handle tickets by navigating to Admin Panel → Agents and creating new agents. For example, Jane was assigned to the SysAdmins department, while John was placed in Support. Each agent was given the appropriate roles and permissions to ensure tickets are handled efficiently by the correct team.
+  
+</p>
+<br />
+
+<p>
+<img width="888" height="351" alt="image" src="https://github.com/user-attachments/assets/40091777-fbb9-44de-9f0b-85304ea7fea7" />
+
+</p>
+<p>
+I configured Users (customers) → Navigated to Agent Panel → Users → Add New.  
+  <p> This allows us to create new end-users to allow them to submit tickets.
+</p>
+<br />
+
+<p>
+<img width="726" height="316" alt="image" src="https://github.com/user-attachments/assets/4b2317b8-e918-4502-a471-aab2db761b19" />
+
+</p>
+<p>
+7. I configured SLA → Navigated to Admin Panel → Manage → SLA → Created policies: Sev-A (1 hr, 24/7), Sev-B (4 hrs, 24/7), Sev-C (8 hrs, Business Hours).
+<p> This is to enforce ticket response from our agents to improve service accountability.
+</p>
+<br />
+
+<p>
+<img width="723" height="442" alt="image" src="https://github.com/user-attachments/assets/fc2e4a57-27e8-4e0e-86ca-cb7d8ca414b8" />
+
+</p>
+<p>
+7. I configured help topics to guide users when submitting tickets by navigating to Admin Panel → Manage → Help Topics. Topics such as Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and Other were added. These categories help agents quickly classify tickets and improve the overall experience for end users.
+</p>
+<br />
