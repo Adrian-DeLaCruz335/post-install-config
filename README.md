@@ -44,7 +44,6 @@ First, I created a new role called Supreme Admin to organize and manage permissi
 
 <p>
 <img width="892" height="103" alt="image" src="https://github.com/user-attachments/assets/9b7b1db3-c956-4487-a343-3683c1303f1b" /> 
-
 </p>
 <p>
 2. I configured Departments (Ticket Visibility) → Navigated to Admin Panel → Agents → Departments → Create department: SysAdmins.
@@ -53,9 +52,10 @@ First, I created a new role called Supreme Admin to organize and manage permissi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="721" height="293" alt="image" src="https://github.com/user-attachments/assets/f1516ac0-d3b0-4c09-b02f-b6dfd36ceb44" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I configured Teams → Navigated to Admin Panel → Agents → Teams → Created team: Online Banking → Pulled agents from different departments as needed.
+<p> This is to ensure tickets are accessible only to the appropriate team.
 </p>
 <br />
