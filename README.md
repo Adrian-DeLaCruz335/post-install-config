@@ -22,27 +22,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Configure:
+
+- roles
+- teams
+- departments
+- users
+- SLA (service-level agreements)
+- and ticket categorizations
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="701" height="387" alt="image" src="https://github.com/user-attachments/assets/7b5f3b20-df9f-4c3d-ba93-86b070efead7" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, I created a new role called Supreme Admin to organize and manage permissions. This was done by navigating to Admin Panel → Agents → Roles and adding a new role. The role is used to group administrative permissions for agents.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="892" height="103" alt="image" src="https://github.com/user-attachments/assets/9b7b1db3-c956-4487-a343-3683c1303f1b" /> 
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. I configured Departments (Ticket Visibility) → Navigated to Admin Panel → Agents → Departments → Create department: SysAdmins.
+  <p> This setup allows tickets to be routed efficiently to the right personnel.
 </p>
 <br />
 
